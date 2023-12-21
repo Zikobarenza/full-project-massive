@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "judul": "Seni Menguasai Berbicara di Depan Umum Membangun Koneksi yang Berdampak",
+      "deskripsi": "Berbicara di depan umum merupakan....",
+      "gambar": "/public/assets/halaman artikel/artikel 1.jpg"
+    },
+    
+    {
+      "id": 2,
+      "judul": "PENTING NYA SKILL PUBLIC SPEAKING",
+      "deskripsi": "Kenapa harus Menguasai Public Speaking?",
+      "gambar": "/public/assets/halaman artikel/4.png"
+    },
+    {
+      "id": 3,
+      "judul": "Pentingnya Keterampilan Berbicara Di Depan Umum ",
+      "deskripsi": "Kenapa harus menguasai berbicara di depan umum?",
+      "gambar": "/public/assets/halaman artikel/1.png"
+    },
+    {
+      "id": 4,
+      "judul": "Dasar Public Speaking Yang Wajib Anda Kuasai",
+      "deskripsi": "Public speaking merupakan salah satu soft skill dalam membangun relasi bisnis Sehingga",
+      "gambar": "/public/assets/halaman artikel/3.png"
+    }
+  ]

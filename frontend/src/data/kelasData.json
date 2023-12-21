@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "gambar": "/public/assets/kelas/reguler.png",
+      "deskripsi": "Kelas Reguler memiliki intesitas pertemuan beragam, mulai dari 2 hingga 4 kali pertemuan dengan pembahasan yang lebih mendalam. Metode experiential learning diaplikasikan juga dikelas ini.",
+      "durasi": "60-90",
+      "harga": "150.000",
+      "Lokasi": "Zoom Meet"
+    },
+    {
+      "id": 2,
+      "deskripsi": "Kelas Leadership memiliki intensitas pertemuan 12 kali dengan pembahasan yang lebih mendalam. Dengan kualitas dan metode pengajaran melalui kelas online yang dimana terdiri 70% praktek dan 30% teori.",
+      "gambar": "/public/assets/kelas/leadership.png",
+      "durasi": "60-120",
+      "harga": "250.000",
+      "Lokasi": "Zoom Meet"
+
+    },
+    {
+      "id": 3,
+      "gambar": "/public/assets/kelas/bahasa asing.png",
+      "deskripsi": "Kelas Bahasa Asing memiliki intensitas pertemuan beragam, mulai dari 2 hingga 4 kali pertemuan dengan pembahasan yang lebih mendalam. Metode experiential learning diaplikasikan juga di kelas ini.",
+      "durasi": "60-90",
+      "harga": "250.000",
+      "Lokasi": "Zoom Meet"
+      
+    }
+
+  ]

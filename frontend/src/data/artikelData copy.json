@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "judul": "Seni Menguasai Berbicara di Depan Umum Membangun Koneksi yang Berdampak",
+      "deskripsi": "Berbicara di depan umum merupakan salah satu keterampilan paling berpengaruh dan memberdayakan...",
+      "gambar": "./public/assets/home/4.png"
+    },
+    {
+      "id": 2,
+      "judul": "Pentingnya Keterampilan Berbicara Di Depan Umum ",
+      "deskripsi": "Kenapa harus menguasai berbicara di depan umum?",
+      "gambar": "./public/assets/home/4.png"
+    },
+    {
+      "id": 3,
+      "judul": "Pentingnya Keterampilan Berbicara Di Depan Umum ",
+      "deskripsi": "Kenapa harus menguasai berbicara di depan umum?",
+      "gambar": "./public/assets/home/4.png"
+    },
+    {
+      "id": 4,
+      "judul": "Cara Efektif Menggunakan Teknologi dalam Pengelolaan Keuangan Bisnis",
+      "deskripsi": "Pebisnis usaha menengah kebawah dapat menggunakan teknologi terbaru dalam pengelolaan keuangan bisnis. Ini mencakup aplikasi keuangan, perangkat lunak akuntansi, dan alat digital lainnya yang dapat...",
+      "gambar": "/assets/artikel/artikel-4.jpg"
+    }
+  ]

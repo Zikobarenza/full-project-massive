@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "judul": "8 Teknik Dasar Public Speaking",
+    "gambar": "/public/assets/Kursus/Kursus 1.png"
+  },
+  {
+    "id": 3,
+    "judul": "Ini dia:Tips Komunikasi Efektif Public Speaking",
+    "gambar": "/public/assets/Kursus/Kursus 2.png"
+  },
+  {
+    "id": 2,
+    "judul": "Alasan Public Speaking Kamu Bersalah",
+    "gambar": "/public/assets/Kursus/Kursus 3.png"
+  },
+  {
+    "id": 4,
+    "judul": "Yakin sampai sekarang masih mau minder?(Tips Percaya diri) didepan banyak orang",
+    "gambar": "/public/assets/Kursus/Kursus 4.png"
+  },
+  {
+    "id": 5,
+    "judul": "Public speaking dan Strategi Komunikasi Bisnis",
+    "gambar": "/public/assets/Kursus/Kursus 5.png"
+  },
+  {
+    "id": 6,
+    "judul": "Hilangkan Nervous dan Tingkatkan Kepercayaan Diri",
+    "gambar": "/public/assets/Kursus/Kursus 6.png"
+  }
+]

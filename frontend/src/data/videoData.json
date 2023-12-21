@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "videoUrl": "/public/assets/video/BELAJAR PUBLIC SPEAKING.mp4",
+    "judul": "BELAJAR PUBLIC SPEAKING"
+  },
+  {
+    "id": 2,
+    "videoUrl": "/public/assets/video/Presentasi yang Baik dan Menarik.mp4",
+    "judul":"MENINGKATKAN KETERAMPILAN PRESENTASI ONLINE"
+  },
+  {
+    "id": 3,
+    "videoUrl": "/public/assets/video/Public Speaking Indonesia - Tips Menyiapkan Pidato Spontan dalam 1 Menit.mp4",
+    "judul":"TIPS MENYIAPKAN PIDATO SPONTAN DALAM 1 MENIT"
+  },
+  {
+    "id": 4,
+    "videoUrl": "/public/assets/video/Cara Lancar Berbicara dalam Publik Speaking yang baik_ Komunikasi Verbal.mp4",
+    "judul":"MENGEMBANGKAN KETERAMPILAN BERBICARA DI DEPAN UMUM"
+  }
+]

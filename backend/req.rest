@@ -1,0 +1,9 @@
+POST http://localhost:8081/api/daftar
+
+Content-Type:application/json
+
+{
+    "email" : "string@gmail.com",
+    "username" : "string",
+    "password" : "varchar"
+}
